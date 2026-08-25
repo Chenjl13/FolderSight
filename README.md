@@ -1,4 +1,5 @@
-# FolderSight
+<h1 align="center">FolderSight</h1>
+
 ### Visual Folder Detection System
 
 FolderSight is a visual folder detection system for Windows desktop screenshots. It fuses multiple visual cues to generate yellow folder candidates, segment likely folders, and localize final bounding boxes.
