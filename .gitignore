@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Model weights and third-party model checkouts
+models/
+weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+pytorch_model.bin
+tf_model.h5
+
+# Runtime outputs
+outputs/*
+!outputs/example_results/
+!outputs/example_results/**
+*.log
+run_manifest.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

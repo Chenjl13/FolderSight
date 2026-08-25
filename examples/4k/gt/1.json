@@ -1,0 +1,921 @@
+{
+  "image": "1.jpg",
+  "source_target": "1.jpg",
+  "width": 3840,
+  "height": 2160,
+  "num_objects": 41,
+  "num_all_icons": 67,
+  "placement_mode": "grid",
+  "grid": {
+    "pitch_x": 73.75,
+    "pitch_y": 95.0,
+    "offset_x": 39.25,
+    "offset_y": 64.0,
+    "slot_jitter": 0
+  },
+  "skipped_ids": [],
+  "objects": [
+    {
+      "id": 3,
+      "bbox": [
+        1933,
+        220,
+        1981,
+        287
+      ],
+      "width": 48,
+      "height": 67,
+      "source_bbox": [
+        89,
+        11,
+        137,
+        78
+      ],
+      "slot_center": [
+        1956.75,
+        254.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 6,
+      "bbox": [
+        2154,
+        1360,
+        2203,
+        1427
+      ],
+      "width": 49,
+      "height": 67,
+      "source_bbox": [
+        89,
+        109,
+        138,
+        176
+      ],
+      "slot_center": [
+        2178.0,
+        1394.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 8,
+      "bbox": [
+        1564,
+        1457,
+        1613,
+        1521
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        207,
+        63,
+        271
+      ],
+      "slot_center": [
+        1588.0,
+        1489.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 9,
+      "bbox": [
+        1702,
+        1456,
+        1768,
+        1521
+      ],
+      "width": 66,
+      "height": 65,
+      "source_bbox": [
+        80,
+        207,
+        146,
+        272
+      ],
+      "slot_center": [
+        1735.5,
+        1489.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 11,
+      "bbox": [
+        2292,
+        127,
+        2358,
+        191
+      ],
+      "width": 66,
+      "height": 64,
+      "source_bbox": [
+        5,
+        305,
+        71,
+        369
+      ],
+      "slot_center": [
+        2325.5,
+        159.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 12,
+      "bbox": [
+        1697,
+        412,
+        1774,
+        477
+      ],
+      "width": 77,
+      "height": 65,
+      "source_bbox": [
+        75,
+        305,
+        152,
+        370
+      ],
+      "slot_center": [
+        1735.5,
+        444.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 14,
+      "bbox": [
+        306,
+        1447,
+        362,
+        1531
+      ],
+      "width": 56,
+      "height": 84,
+      "source_bbox": [
+        10,
+        403,
+        66,
+        487
+      ],
+      "slot_center": [
+        334.25,
+        1489.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 15,
+      "bbox": [
+        2889,
+        1932,
+        2942,
+        1997
+      ],
+      "width": 53,
+      "height": 65,
+      "source_bbox": [
+        86,
+        403,
+        139,
+        468
+      ],
+      "slot_center": [
+        2915.5,
+        1964.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 17,
+      "bbox": [
+        2216,
+        1077,
+        2287,
+        1141
+      ],
+      "width": 71,
+      "height": 64,
+      "source_bbox": [
+        2,
+        501,
+        73,
+        565
+      ],
+      "slot_center": [
+        2251.75,
+        1109.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 20,
+      "bbox": [
+        3407,
+        1930,
+        3456,
+        1997
+      ],
+      "width": 49,
+      "height": 67,
+      "source_bbox": [
+        14,
+        599,
+        63,
+        666
+      ],
+      "slot_center": [
+        3431.75,
+        1964.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 21,
+      "bbox": [
+        2227,
+        696,
+        2276,
+        761
+      ],
+      "width": 49,
+      "height": 65,
+      "source_bbox": [
+        89,
+        599,
+        138,
+        664
+      ],
+      "slot_center": [
+        2251.75,
+        729.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 23,
+      "bbox": [
+        974,
+        127,
+        1023,
+        191
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        697,
+        63,
+        761
+      ],
+      "slot_center": [
+        998.0,
+        159.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 24,
+      "bbox": [
+        3405,
+        1646,
+        3459,
+        1711
+      ],
+      "width": 54,
+      "height": 65,
+      "source_bbox": [
+        86,
+        697,
+        140,
+        762
+      ],
+      "slot_center": [
+        3431.75,
+        1679.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 26,
+      "bbox": [
+        3250,
+        1930,
+        3318,
+        1997
+      ],
+      "width": 68,
+      "height": 67,
+      "source_bbox": [
+        4,
+        795,
+        72,
+        862
+      ],
+      "slot_center": [
+        3284.25,
+        1964.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 27,
+      "bbox": [
+        384,
+        316,
+        432,
+        381
+      ],
+      "width": 48,
+      "height": 65,
+      "source_bbox": [
+        89,
+        795,
+        137,
+        860
+      ],
+      "slot_center": [
+        408.0,
+        349.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 29,
+      "bbox": [
+        2670,
+        1077,
+        2719,
+        1141
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        893,
+        63,
+        957
+      ],
+      "slot_center": [
+        2694.25,
+        1109.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 30,
+      "bbox": [
+        1047,
+        1172,
+        1096,
+        1237
+      ],
+      "width": 49,
+      "height": 65,
+      "source_bbox": [
+        89,
+        893,
+        138,
+        958
+      ],
+      "slot_center": [
+        1071.75,
+        1204.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 32,
+      "bbox": [
+        2002,
+        1742,
+        2058,
+        1806
+      ],
+      "width": 56,
+      "height": 64,
+      "source_bbox": [
+        10,
+        991,
+        66,
+        1055
+      ],
+      "slot_center": [
+        2030.5,
+        1774.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 33,
+      "bbox": [
+        1564,
+        412,
+        1612,
+        477
+      ],
+      "width": 48,
+      "height": 65,
+      "source_bbox": [
+        89,
+        991,
+        137,
+        1056
+      ],
+      "slot_center": [
+        1588.0,
+        444.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 35,
+      "bbox": [
+        3555,
+        697,
+        3604,
+        761
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1089,
+        63,
+        1153
+      ],
+      "slot_center": [
+        3579.25,
+        729.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 36,
+      "bbox": [
+        1481,
+        403,
+        1547,
+        485
+      ],
+      "width": 66,
+      "height": 82,
+      "source_bbox": [
+        80,
+        1089,
+        146,
+        1171
+      ],
+      "slot_center": [
+        1514.25,
+        444.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 38,
+      "bbox": [
+        236,
+        982,
+        284,
+        1046
+      ],
+      "width": 48,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1187,
+        62,
+        1251
+      ],
+      "slot_center": [
+        260.5,
+        1014.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 39,
+      "bbox": [
+        3260,
+        1836,
+        3309,
+        1901
+      ],
+      "width": 49,
+      "height": 65,
+      "source_bbox": [
+        89,
+        1187,
+        138,
+        1252
+      ],
+      "slot_center": [
+        3284.25,
+        1869.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 41,
+      "bbox": [
+        3112,
+        126,
+        3161,
+        193
+      ],
+      "width": 49,
+      "height": 67,
+      "source_bbox": [
+        14,
+        1285,
+        63,
+        1352
+      ],
+      "slot_center": [
+        3136.75,
+        159.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 42,
+      "bbox": [
+        2891,
+        32,
+        2940,
+        97
+      ],
+      "width": 49,
+      "height": 65,
+      "source_bbox": [
+        89,
+        1285,
+        138,
+        1350
+      ],
+      "slot_center": [
+        2915.5,
+        64.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 43,
+      "bbox": [
+        752,
+        792,
+        801,
+        856
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1383,
+        63,
+        1447
+      ],
+      "slot_center": [
+        776.75,
+        824.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 44,
+      "bbox": [
+        2596,
+        1836,
+        2644,
+        1901
+      ],
+      "width": 48,
+      "height": 65,
+      "source_bbox": [
+        89,
+        1383,
+        137,
+        1448
+      ],
+      "slot_center": [
+        2620.5,
+        1869.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 45,
+      "bbox": [
+        2080,
+        317,
+        2129,
+        381
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        164,
+        1383,
+        213,
+        1447
+      ],
+      "slot_center": [
+        2104.25,
+        349.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 47,
+      "bbox": [
+        666,
+        2026,
+        740,
+        2093
+      ],
+      "width": 74,
+      "height": 67,
+      "source_bbox": [
+        1,
+        1481,
+        75,
+        1548
+      ],
+      "slot_center": [
+        703.0,
+        2059.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 48,
+      "bbox": [
+        162,
+        1646,
+        211,
+        1713
+      ],
+      "width": 49,
+      "height": 67,
+      "source_bbox": [
+        164,
+        1481,
+        213,
+        1548
+      ],
+      "slot_center": [
+        186.75,
+        1679.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 50,
+      "bbox": [
+        2817,
+        1457,
+        2866,
+        1521
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1579,
+        63,
+        1643
+      ],
+      "slot_center": [
+        2841.75,
+        1489.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 51,
+      "bbox": [
+        1702,
+        790,
+        1770,
+        857
+      ],
+      "width": 68,
+      "height": 67,
+      "source_bbox": [
+        154,
+        1579,
+        222,
+        1646
+      ],
+      "slot_center": [
+        1735.5,
+        824.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 53,
+      "bbox": [
+        2892,
+        1172,
+        2940,
+        1236
+      ],
+      "width": 48,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1677,
+        62,
+        1741
+      ],
+      "slot_center": [
+        2915.5,
+        1204.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 54,
+      "bbox": [
+        1048,
+        792,
+        1096,
+        856
+      ],
+      "width": 48,
+      "height": 64,
+      "source_bbox": [
+        164,
+        1677,
+        212,
+        1741
+      ],
+      "slot_center": [
+        1071.75,
+        824.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 56,
+      "bbox": [
+        2670,
+        410,
+        2719,
+        477
+      ],
+      "width": 49,
+      "height": 67,
+      "source_bbox": [
+        14,
+        1775,
+        63,
+        1842
+      ],
+      "slot_center": [
+        2694.25,
+        444.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 59,
+      "bbox": [
+        3776,
+        792,
+        3825,
+        856
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1873,
+        63,
+        1937
+      ],
+      "slot_center": [
+        3800.5,
+        824.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 60,
+      "bbox": [
+        3628,
+        412,
+        3677,
+        476
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        164,
+        1873,
+        213,
+        1937
+      ],
+      "slot_center": [
+        3653.0,
+        444.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 62,
+      "bbox": [
+        3186,
+        792,
+        3235,
+        856
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        1971,
+        63,
+        2035
+      ],
+      "slot_center": [
+        3210.5,
+        824.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 63,
+      "bbox": [
+        1108,
+        1646,
+        1182,
+        1713
+      ],
+      "width": 74,
+      "height": 67,
+      "source_bbox": [
+        151,
+        1971,
+        225,
+        2038
+      ],
+      "slot_center": [
+        1145.5,
+        1679.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 65,
+      "bbox": [
+        3470,
+        1172,
+        3540,
+        1236
+      ],
+      "width": 70,
+      "height": 64,
+      "source_bbox": [
+        3,
+        2069,
+        73,
+        2133
+      ],
+      "slot_center": [
+        3505.5,
+        1204.0
+      ],
+      "is_folder": true
+    },
+    {
+      "id": 67,
+      "bbox": [
+        826,
+        792,
+        875,
+        856
+      ],
+      "width": 49,
+      "height": 64,
+      "source_bbox": [
+        14,
+        2167,
+        63,
+        2231
+      ],
+      "slot_center": [
+        850.5,
+        824.0
+      ],
+      "is_folder": true
+    }
+  ]
+}
