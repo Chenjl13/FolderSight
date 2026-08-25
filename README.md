@@ -72,31 +72,31 @@ source: https://huggingface.co/facebook/sam-vit-base
 Run one 1080p demo image:
 
 ```bash
-python pipelines/shape_prior_sam/shape_prior_sam_test.py --image examples/1080p/1.jpg --output-dir outputs/demo_1080p/1 --config configs/pipeline_1080p.json --resolution 1080p --wallpaper-bg bg/bg_1080P.png
+python pipelines/shape_prior_sam_test.py --image examples/1080p/1.jpg --output-dir outputs/demo_1080p/1 --config configs/pipeline_1080p.json --resolution 1080p --wallpaper-bg bg/bg_1080P.png
 ```
 
 Run one 2K demo image:
 
 ```bash
-python pipelines/shape_prior_sam/shape_prior_sam_test.py --image examples/2k/1.jpg --output-dir outputs/demo_2k/1 --config configs/pipeline_2k.json --resolution 2k --wallpaper-bg bg/bg_2K.png
+python pipelines/shape_prior_sam_test.py --image examples/2k/1.jpg --output-dir outputs/demo_2k/1 --config configs/pipeline_2k.json --resolution 2k --wallpaper-bg bg/bg_2K.png
 ```
 
 Run one 4K demo image:
 
 ```bash
-python pipelines/shape_prior_sam/shape_prior_sam_test.py --image examples/4k/1.jpg --output-dir outputs/demo_4k/1 --config configs/pipeline_4k.json --resolution 4k --wallpaper-bg bg/bg_4K.png
+python pipelines/shape_prior_sam_test.py --image examples/4k/1.jpg --output-dir outputs/demo_4k/1 --config configs/pipeline_4k.json --resolution 4k --wallpaper-bg bg/bg_4K.png
 ```
 
 Run all bundled demo images:
 
 ```bash
-python pipelines/shape_prior_sam/run_dataset.py --input-root examples --output-root outputs/demo_batch --resolutions 1080p 2k 4k
+python pipelines/run_dataset.py --input-root examples --output-root outputs/demo_batch --resolutions 1080p 2k 4k
 ```
 
 Evaluate demo outputs against bundled GT:
 
 ```bash
-python pipelines/shape_prior_sam/evaluate_dataset.py --input-root examples --pred-root outputs/demo_batch --output-dir outputs/demo_eval --resolutions 1080p 2k 4k --match-iou 0.3 --pred-file final_refined_boxes.json
+python pipelines/evaluate_dataset.py --input-root examples --pred-root outputs/demo_batch --output-dir outputs/demo_eval --resolutions 1080p 2k 4k --match-iou 0.3 --pred-file final_refined_boxes.json
 ```
 
 ## Input / Output
@@ -122,15 +122,15 @@ Additional intermediate outputs are written for inspection, including candidate 
 
 1080p:
 
-![1080p example](outputs/example_results/1080p/1/final_refined_boxes.png)
+![1080p example](outputs/example_results/1080p/final_refined_boxes.png)
 
 2K:
 
-![2K example](outputs/example_results/2k/1/final_refined_boxes.png)
+![2K example](outputs/example_results/2k/final_refined_boxes.png)
 
 4K:
 
-![4K example](outputs/example_results/4k/1/final_refined_boxes.png)
+![4K example](outputs/example_results/4k/final_refined_boxes.png)
 
 ## Evaluation
 

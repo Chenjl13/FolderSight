@@ -149,7 +149,7 @@ def parse_args() -> argparse.Namespace:
 
     p.add_argument(
         "--pipeline",
-        default="pipelines/shape_prior_sam/shape_prior_sam_test.py",
+        default="pipelines/shape_prior_sam_test.py",
     )
 
     p.add_argument("--folder-gt", default="assets/folder_templates")
