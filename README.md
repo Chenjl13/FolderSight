@@ -1,6 +1,6 @@
 <h1 align="center">FolderSight</h1>
 
-<img src="imgs/Overview.png">
+<img src="imgs/Overall.png">
 
 ### Visual Folder Detection System
 
